@@ -10,7 +10,7 @@ object **AnaFlavia** {
  val name = "Ana Flávia Frontino da Cruz"
  val acknowledgements = "Desenvolvedora Backend"
  
- val languages = listOf("Java", "Python", "JavaScript", "Laravel", "c") 
+ val languages = listOf("PHP", "Python", "JavaScript", "Java", "C") 
 
 }
 ```
